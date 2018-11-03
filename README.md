@@ -1,7 +1,7 @@
 # Blog
 
 [Tim Wong's Blog](https://github.com/tw26/Blog/issues)
-1
+
 - [Mac](https://github.com/tw26/Blog/projects/1)
 - [Python](https://github.com/tw26/Blog/projects/2)
 - [JavaScript](https://github.com/tw26/Blog/projects/3)
